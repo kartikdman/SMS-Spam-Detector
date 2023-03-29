@@ -14,6 +14,6 @@ This sort of project is critical since SMS texting is a common mode of communica
 + Data Cleaning.<br>
 + EDA(Exploratory Data Analysis).<br>
 + Text Preprocessing.<br>
-+ Model Building.<br>
++ Model Building<br>
 + Model Evaluation.<br>
 + Model Improvement.<br>
